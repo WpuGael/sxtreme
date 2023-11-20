@@ -26,10 +26,10 @@ from utilities import has_perms, format_to_k, format_from_k, pickflower, scorefp
 load_dotenv()
 
 conn = mysql.connector.connect(
-    user = 'u79588_E6O83yeRrg',
-    password = '+AYyBYT6!Npzz^XnXp5+e4Rm',
-    host = '78.108.218.47',
-    database = 's79588_xtreme-db',
+    user = '',
+    password = '',
+    host = '',
+    database = '',
     autocommit = True)
 
 c = conn.cursor(dictionary=True, buffered=True)
