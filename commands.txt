@@ -1,0 +1,42 @@
+!w/!wallet/!bal/!balance/!$|!w or !wallet for your own wallet, !w (@USER) or !wallet (@USER) for someone else's wallet|checks your own or someone else's wallet and displays the RS3, 07, and ticket balance.
+!transfer|!transfer (@USER) (AMOUNT) (RS3 or 07)|transfers the given user that amount of money from your wallet to theirs.
+!privacy|!privacy (on or off)|toggles wallet privacy mode. (Stops other users from looking at your wallet)
+!default|!default (RS3 or 07)|changes your default currency to prevent having to specify currency while using commands.
+!cashin|!cashin (AMOUNT) (RS3 or 07)|notifies a cashier that you want to exchange the given amount of gp from your Runescape account to your wallet.
+!cashout|!cashout (AMOUNT) (RS3 or 07)|notifies a cashier that you want to exchange the given amount of gp from your wallet to your Runescape account.
+!daily|!daily|enters the user in a daily giveaway if they have 2m 07 / 13m RS3 weekly wager and the rookie role or higher.
+-------------------WAGER COMMANDS------------------------
+!wager|!wager|displays your total wager (The sum of all bets you've ever placed) and your total amount of keys opened.
+!thisweek|!thisweek|displays your wager for this week - resets each Monday.
+!leaderboard|!leaderboard (RS3 or 07) (total or weekly)|displays the top 8 users with the highest wagers.
+---------------------KEY COMMANDS----------------------
+!k or !keys|!k or !keys|displays how many keys you have of each type.
+!buykey|!buykey (KEY TYPE) (AMOUNT) (RS3 or 07)|buys that amount of the given key type. (Bronze - 1m 07, Iron - 5m RS3, Steel - 5m 07, Mithril - 10m RS3, Adamant - 10m 07, Rune - 50m RS3, Dragon - 20m 07, Noxious - 100m RS3)
+!open|!open (KEY TYPE)|opens a chest of the given key type, consuming one key.
+!giftkey|!giftkey (@USER) (KEY TYPE)|opens a chest of the given key type and gifts the prize to the specified user, consuming one key.
+-----------------------GAME COMMANDS---------------------
+!50|!50 (BET) (RS3 or 07)|starts a provably fair dicing game - roll over 50 to win, x1.8 payout.
+!53|!53 (BET) (RS3 or 07)|starts a provably fair dicing game - roll over 53 to win, x2 payout.
+!75|!75 (BET) (RS3 or 07)|starts a provably fair dicing game - roll over 75 to win, x3 payout.
+!95|!95 (BET) (RS3 or 07)|starts a provably fair dicing game - roll over 95 to win, x7 payout.
+!under/!over/!middle|!(under/over/middle) (BET) (RS3 or 07)|rolls a provably fair number between 1-100 - x1.9 payout on under/over win, x99 payout on middle win (exactly 50).
+!bj|!bj (BET) (RS3 or 07)|starts a blackjack game against the bot AI.
+!fp|!fp (AMOUNT) (RS3 or 07)|starts a flower poker game against the bot.
+!add|!add (AMOUNT)|adds the given amount to the jackpot.
+---------------------STAKING COMMANDS--------------------
+!host open or !host close - HOST ONLY|!host open or !host close|adds or removes the @Open Host role from a host.
+!bet - HOST ONLY|!bet (@USER) (AMOUNT) (RS3 or 07)|adds a bet from the specified player onto yourself.
+!pot|!pot (@HOST)|displays information about the specified host's bets and overall pot.
+!streak|!streak (@HOST)|displays the specified host's win/loss streak.
+!fresh - HOST ONLY|!fresh|resets your win/loss streak to 'fresh'.
+!payout/rebet/clear - HOST ONLY|!payout/rebet/clear (@USER)|pays out the specified user to their wallet, rebets their winnings, or clears them from the pot if they bet in-game.
+----------------------MISC COMMANDS----------------------
+!commands or !cmds|!commands or !cmds|displays the command list. (Obviously)
+!help|!help (COMMAND NAME)|gives a description of the given command. (Woah this is meta)
+!rank|!rank|displays your current rank and xp in a beautiful visual.
+!levels|!levels|displays the top 10 users with the highest xp.
+!setseed|!setseed (SEED)|changes your client seed for provably fair gambling.
+!userinfo|!userinfo (@USER)|displays stalker-like information about the given user.
+!poll|!poll (QUESTION)|creates a poll with the given question.
+!colorpicker|!colorpicker|displays a random color and hexadecimal value.
+$roll|$roll (Number of Dice)d(Number of Sides)|rolls the specificed number of dice with the specified number of sides and gives a sum of their totals.

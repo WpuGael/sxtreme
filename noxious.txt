@@ -1,0 +1,21 @@
+Zaros Godsword|1014827|https://cdn.discordapp.com/attachments/580408725676752916/747459796134789192/700.png
+Christmas Scythe|646109|https://cdn.discordapp.com/attachments/580408725676752916/747482383611199758/260.png
+Green Hallowe'en Mask|502296|https://cdn.discordapp.com/attachments/580408725676752916/747478704611000330/150.png
+Terrasaur Maul|305789|https://cdn.discordapp.com/attachments/580408725676752916/747481380299997204/110px-Terrasaur_maul_detail.png
+Easter Egg|251051|https://cdn.discordapp.com/attachments/580408725676752916/747464985546063935/700.png
+Third Age Platebody|241308|https://cdn.discordapp.com/attachments/580408725676752916/747470359196074005/100px-Third_age_platebody_detail.png
+Noxious Scythe|227048|https://cdn.discordapp.com/attachments/580408725676752916/747460909383024671/700.png
+Noxious Staff|165149|https://cdn.discordapp.com/attachments/580408725676752916/747461257329901588/696.png
+Noxious Bow|163230|https://cdn.discordapp.com/attachments/580408725676752916/747461473449803827/700.png
+Barrows Dye|155149|https://cdn.discordapp.com/attachments/580408725676752916/747465143884972122/100px-Barrows_dye_detail.png
+100m Cash|100000|https://cdn.discordapp.com/attachments/617144512409501696/713819036718465114/120.png
+Cloak of Seasons|72218|https://cdn.discordapp.com/attachments/580408725676752916/747480134700761118/226.png
+Luck of the Dwarves|66587|https://cdn.discordapp.com/attachments/580408725676752916/747468712084242582/100px-Luck_of_the_Dwarves_detail.png
+Cinderbane Gauntlets|56883|https://cdn.discordapp.com/attachments/580408725676752916/747473793899036753/114px-Cinderbane_gloves_detail.png
+Third Age Druidic Cloak|46899|https://cdn.discordapp.com/attachments/580408725676752916/747470915281092788/100px-Third_age_druidic_cloak_detail.png
+Explosive Barrel|38670|https://cdn.discordapp.com/attachments/580408725676752916/747470527232213002/100px-Explosive_barrel_detail.png
+Ring of Death|28860|https://cdn.discordapp.com/attachments/580408725676752916/747471567952281710/240.png
+Amulet of Souls|28535|https://cdn.discordapp.com/attachments/580408725676752916/747471346229051493/200.png
+Large Rune Pouch|13931|https://cdn.discordapp.com/attachments/580408725676752916/747465513822716035/100px-Large_rune_pouch_detail.png
+10,000 Araxyte Arrows|1780|https://cdn.discordapp.com/attachments/580408725676752916/747466318835351567/96px-Araxyte_arrow_detail.png
+Araxyte Pheromone|1657|https://cdn.discordapp.com/attachments/580408725676752916/747466725720588409/120px-Araxyte_pheromone_detail.png
